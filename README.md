@@ -10,11 +10,12 @@ Here is some information about the about the Python Tri-Cities Interest Group.
 ### If you are interested, or even a little curious, then join us.
 
 # When and Where
-
+Well before the global pandemic:
 We generally meet at the Richland Wa Library in the STEAM room, that is the Science Technology Engineering Art and Math room, not any other kind of steam room.  We meet on the 2nd and 4th Tuesdays every month.
 2nd Tuesday we generally do beginners Python, 4th Tuesday we work on projects.
 
-Here is some information on MeetUp https://www.meetup.com/PythonTriCities-Meetup
+Currently we meet via Video Conference link, either [Zoom](https://zoom.us) or [jitsi](https://jitsi.org/)
+Keep an eye out on the [PythonTriCities-Meetup site](https://www.meetup.com/PythonTriCities-Meetup)
 
 # Why
 Python is fun and the Tri-Cities Washington area has a tremendous amount of technology potential.
